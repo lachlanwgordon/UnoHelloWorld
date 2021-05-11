@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Skia.Gtk/UnoHelloWorld.Skia.Gtk.csproj": {}
+  },
+  "projects": {
+    "/Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Skia.Gtk/UnoHelloWorld.Skia.Gtk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Skia.Gtk/UnoHelloWorld.Skia.Gtk.csproj",
+        "projectName": "UnoHelloWorld.Skia.Gtk",
+        "projectPath": "/Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Skia.Gtk/UnoHelloWorld.Skia.Gtk.csproj",
+        "packagesPath": "/Users/lachlangordon/.nuget/packages/",
+        "outputPath": "/Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Skia.Gtk/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lachlangordon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Filter": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Uno.UI.Skia.Gtk": {
+              "target": "Package",
+              "version": "[3.5.0-dev.270, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-arm",
+              "version": "[5.0.3, 5.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-arm",
+              "version": "[5.0.3, 5.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-arm",
+              "version": "[5.0.3, 5.0.3]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-arm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

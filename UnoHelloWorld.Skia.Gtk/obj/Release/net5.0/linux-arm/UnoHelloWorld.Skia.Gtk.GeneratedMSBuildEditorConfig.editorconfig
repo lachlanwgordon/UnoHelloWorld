@@ -1,0 +1,151 @@
+is_global = true
+build_property.TargetPlatformIdentifier = 
+build_property.TargetFramework = net5.0
+build_property.TargetFramework = net5.0
+build_property.ProjectTypeGuidsProperty = 
+build_property.MSBuildProjectFullPath = /Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Skia.Gtk/UnoHelloWorld.Skia.Gtk.csproj
+build_property.RootNamespace = UnoHelloWorld.Skia.Gtk
+build_property.DefineConstantsProperty = TRACE,RELEASE,NET,NET5_0,NETCOREAPP,UNO_REFERENCE_API,HAS_UNO_SKIA,HAS_UNO_SKIA_GTK
+build_property.Configuration = Release
+build_property.IntermediateOutputPath = obj/Release/net5.0/linux-arm/
+build_property.AndroidApplication = 
+build_property.OutputType = WinExe
+build_property.MSBuildProjectName = UnoHelloWorld.Skia.Gtk
+build_property.BuildingProject = true
+build_property.DesignTimeBuild = 
+build_property.UseWPF = 
+build_property.IsUnoHead = true
+build_property.UnoRemoteControlPort = 
+build_property.UnoRemoteControlHost = 
+build_property.TSBindingsPath = 
+build_property.UseUnoXamlParser = 
+build_property.UnoSkipUserControlsInVisualTree = 
+build_property.ShouldWriteErrorOnInvalidXaml = 
+build_property.IsUiAutomationMappingEnabled = 
+build_property.ShouldAnnotateGeneratedXaml = 
+build_property.DefaultLanguage = en
+build_property.UnoPlatformTelemetryOptOut = 
+build_property.ExcludeXamlNamespacesProperty = win,not_skia
+build_property.IncludeXamlNamespacesProperty = xamarin,not_win,legacy,skia,netstdref,not_ios,not_android,not_macos,not_wasm
+build_property.XamlGeneratorAnalyzerSuppressionsProperty = nventive.Usage-NV0056,nventive.Usage-NV0058,nventive.Usage-NV1003,nventive.Usage-NV0085,nventive.Usage-NV2001,nventive.Usage-NV2003,nventive.Usage-NV2004,nventive.Usage-NV2005
+build_property.LegacyTypesProperty = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+
+[/Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Shared/MainPage.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = MainPage.xaml
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Shared/MainPage.xaml
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Shared/MainPage.xaml
+
+[/Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Shared/App.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = ApplicationDefinition
+build_metadata.AdditionalFiles.Link = App.xaml
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Shared/App.xaml
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Shared/App.xaml
+
+[/Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Shared/Strings/en/Resources.resw]
+build_metadata.AdditionalFiles.SourceItemGroup = PRIResource
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Shared/Strings/en/Resources.resw
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/Projects/UnoHelloWorld/UnoHelloWorld.Shared/Strings/en/Resources.resw
+
+[/usr/local/share/dotnet/sdk/5.0.103/Sdks/Microsoft.NET.Sdk/analyzers/Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /usr/local/share/dotnet/sdk/5.0.103/Sdks/Microsoft.NET.Sdk/analyzers/Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+build_metadata.AdditionalFiles.Identity = /usr/local/share/dotnet/sdk/5.0.103/Sdks/Microsoft.NET.Sdk/analyzers/Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+
+[/usr/local/share/dotnet/sdk/5.0.103/Sdks/Microsoft.NET.Sdk/analyzers/Microsoft.CodeAnalysis.NetAnalyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /usr/local/share/dotnet/sdk/5.0.103/Sdks/Microsoft.NET.Sdk/analyzers/Microsoft.CodeAnalysis.NetAnalyzers.dll
+build_metadata.AdditionalFiles.Identity = /usr/local/share/dotnet/sdk/5.0.103/Sdks/Microsoft.NET.Sdk/analyzers/Microsoft.CodeAnalysis.NetAnalyzers.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/Uno.Analyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/Uno.Analyzers.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/Uno.Analyzers.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/CommonServiceLocator.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/CommonServiceLocator.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/CommonServiceLocator.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Microsoft.ApplicationInsights.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Microsoft.ApplicationInsights.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Microsoft.ApplicationInsights.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Microsoft.DotNet.PlatformAbstractions.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Microsoft.DotNet.PlatformAbstractions.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Microsoft.DotNet.PlatformAbstractions.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Microsoft.Extensions.Logging.Abstractions.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Microsoft.Extensions.Logging.Abstractions.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Microsoft.Extensions.Logging.Abstractions.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Microsoft.Extensions.Logging.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Microsoft.Extensions.Logging.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Microsoft.Extensions.Logging.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Mono.Cecil.Mdb.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Mono.Cecil.Mdb.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Mono.Cecil.Mdb.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Mono.Cecil.Pdb.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Mono.Cecil.Pdb.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Mono.Cecil.Pdb.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Mono.Cecil.Rocks.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Mono.Cecil.Rocks.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Mono.Cecil.Rocks.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Mono.Cecil.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Mono.Cecil.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Mono.Cecil.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/System.Diagnostics.DiagnosticSource.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/System.Diagnostics.DiagnosticSource.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/System.Diagnostics.DiagnosticSource.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Uno.Core.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Uno.Core.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Uno.Core.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Uno.UI.SourceGenerators.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Uno.UI.SourceGenerators.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Uno.UI.SourceGenerators.dll
+
+[/Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Uno.Xaml.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Uno.Xaml.dll
+build_metadata.AdditionalFiles.Identity = /Users/lachlangordon/.nuget/packages/uno.ui/3.5.0-dev.270/analyzers/dotnet/cs/Uno.Xaml.dll
